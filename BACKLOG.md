@@ -1,9 +1,9 @@
 # Backlog
 
 ## Visitantes
-- [ ] Cadastro inicial parcial de usuário
-- [ ] Cronograma
-- [ ] Filtros do cronograma
+- [x] Cadastro inicial parcial de usuário
+- [x] Cronograma
+- [x] Filtros do cronograma
 
 ## Oficinas
 - [ ] Ver detalhes de uma oficina pelo cronograma

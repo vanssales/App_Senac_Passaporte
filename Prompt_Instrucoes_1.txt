@@ -1,0 +1,9 @@
+Faça a instalação do React usando Vite de acordo com as exigências deste projeto. Não instale mais nada por enquanto. 
+Ao finalizar a instalação, deixe o projeto já rodando na máquina.
+
+*Roda no Antigravity IDE!*
+-----------------
+
+Vamos começar com o desenvolvimento da tela inicial. A tela inicial já é logo a tela de cadastro parcial do usuário.
+
+Monte a tela com uma mensagem de boas vindas ao casa aberta do SENAC, com um botão chamado "Ver Oficinas". Ao clicar neste botão deve aparecer a tela de cadastro em formato de model.

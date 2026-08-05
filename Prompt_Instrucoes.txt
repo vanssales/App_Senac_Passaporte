@@ -1,4 +1,0 @@
-Faça a instalação do React usando Vite de acordo com as exigências deste projeto. Não instale mais nada por enquanto. 
-Ao finalizar a instalação, deixe o projeto já rodando na máquina.
-
-*Roda no Antigravity IDE!*

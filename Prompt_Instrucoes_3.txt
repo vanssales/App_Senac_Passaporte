@@ -1,0 +1,11 @@
+Vamos começar com o desenvolvimento da tela inicial.
+A tela inicial já é a tela de cadastro parcial do usuário. 
+
+Monte a tela com uma mensagem de boas vinda ao Casa Aberta do Senac, com um botão chamado "Ver oficinas". Ao clicar neste botão deve aparecer a tela de cadastro em formato de modal. Consulte cadastro.md
+
+O cadastro deve ser feito APENAS usando localStorage (consulte arquitetura.md). Nada deve ser enviado para o banco ainda. Após o cadastro o usuário deve ser direcionado para o cronograma.
+
+Crie também a página do cronograma. No entanto, não preencha com nada agora, deixe apenas um <h1> escrito "Cronograma" e em baixo o nome da pessoa para identificar que ela está logada.
+
+Não deve ser possível acessar o cronograma sem ter criado uma conta. Um usuário não pode ter mais de uma conta, então ele deve passar pelo cadastro inicial.
+Se o usuário entrar novamente no site e já houver registros no localStorage, ele deve ser direcionado para o cronograma.
