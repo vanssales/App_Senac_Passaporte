@@ -14,3 +14,5 @@ Este é um projeto feito em React usando Vite na versão mais recente. Ele faz u
         **IMPORTANTE** sempre que fizer um commit, atualizer o arquivo `BACKLOG.md` com o progresso atual do projeto.
 
 
+## Testes
+**NUNCA** execute e nem faça testes automatizados neste projeto.
